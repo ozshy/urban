@@ -8,4 +8,4 @@ Download the R-code file: "urban_2026_mm_dd.R" and the two data files: "dcpc-202
 
 Run the ENTIRE code first (don't forget to change the working directory).
 
-If you are using RStudio, after you run the ENTIRE code, you can jump to the beginning and end of each table and figure by clicking the list of contents on the left-lower corner.
+If you are using RStudio, after you run the ENTIRE code, you can jump to the beginning and end of each table and figure by clicking the list of contents on the lower-left corner.
